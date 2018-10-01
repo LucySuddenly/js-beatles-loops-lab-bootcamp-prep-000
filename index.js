@@ -13,7 +13,7 @@ function johnLennonFacts(facts) {
   }
   function iLoveTheBeatles(number) {
     var = array[]
-    do { array.push
+    do { array.push("I love the Beatles!")
       
     } while
   }
