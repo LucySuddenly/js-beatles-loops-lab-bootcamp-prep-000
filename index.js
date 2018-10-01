@@ -15,5 +15,5 @@ function johnLennonFacts(facts) {
     var = array[]
     do { array.push("I love the Beatles!")
       number++
-    } while 
+    } while number < 15
   }
