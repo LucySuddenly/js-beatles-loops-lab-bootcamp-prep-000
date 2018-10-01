@@ -12,8 +12,8 @@ function johnLennonFacts(facts) {
   }return facts
   }
   function iLoveTheBeatles(number) {
-    var = variable[]
-    do {
+    var = array[]
+    do { array.push
       
     } while
   }
